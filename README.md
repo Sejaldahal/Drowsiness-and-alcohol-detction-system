@@ -1,3 +1,7 @@
+~""Drowsiness and alcohol impairement detection system""~
+
+
+
 This project aims to develop a system to monitor driver alertness and detect alcohol consumption in real-time. Using machine learning and computer vision techniques, the system tracks facial landmarks and hence traces driver behavior and provides alerts for potential drowsiness or alcohol impairment.
 
 Features
