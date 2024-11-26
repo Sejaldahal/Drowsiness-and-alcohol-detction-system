@@ -9,8 +9,11 @@ Driver Drowsiness Detection and alcohol impairment detection: Monitors eye movem
 Real-time Alerts: Provides real-time warnings when dangerous driving behavior is detected and takes the snapshot if alcohol consumption is suspected and Saves the snapshot with a timestamp in a designated folder.
 
 Installation
+
 Prerequisites
+
 Python 3.x
+
 Required Python libraries (e.g., OpenCV, MediaPipe,scipy)
 ```bash
 pip install opencv-python mediapipe scipy
